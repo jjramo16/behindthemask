@@ -1,4 +1,4 @@
-!['banner'](title.png)
+!['banner'](images/title.png)
 
 # **BEHIND THE MASK:** TRACING THE COVID-19 RESEARCH TIMELINE THROUGH TOPIC MODELING AND EVOLUTION
 
